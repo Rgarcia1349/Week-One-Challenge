@@ -1,4 +1,4 @@
-#Week-One-Challenge
+Week-One-Challenge
 Creating a that meets webpage meets accessibility standards
 Ensuring semantic HTML elements
 Making sure that the elements follow a logical structure independent of styling and positioning
